@@ -8,5 +8,3 @@ export interface Note {
   createdAt: string;
   updatedAt: string;
 }
-
-export type NoteId = Note["id"];
